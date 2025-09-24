@@ -105,7 +105,7 @@
 
 .main-header{
     text-align: center;
-    background-image: linear-gradient(rgba(0, 0, 0, 0.548), rgba(0, 0, 0, 0.425)), url(Rafi\ laptop.jpg);
+    background-image: url("First web.images/header.webp");
     height: 100vh;
     background-repeat: no-repeat;
     background-size: cover;
@@ -522,7 +522,7 @@ marquee > span{
 
 
 #paralex-section{
-    background-image: url("parallax.jpg");
+    background-image: url("First web.images/parallax.jpg");
     background-repeat: no-repeat;
     background-size: cover;
     background-position: center;
